@@ -1,3 +1,5 @@
+<img src="https://github.com/Andre-dam/AndroidFloatActivity-tutorial/blob/master/sample.gif" width="300">
+
 # AndroidFloatingActivity-tutorial
 
 This is a simple, minimalist, easy-to-use Floating Activity class.
